@@ -2,4 +2,9 @@ Hello
 Hi
 My name is Mahmoud
 Modified 123456
+<<<<<<< HEAD
 hello to out project "editing by salma "
+=======
+
+myy name is rana (by rana)
+>>>>>>> 2b330a7830d565440b2cfdd8779a08f67a9215e3
